@@ -24,7 +24,6 @@ library(plyr)
 
 ### Set working directory
 setwd("C:\\write\\your\\filepath\\here\\")
-setwd("C:\\Users\\KIRADHA\\Documents\\PhD\\proc B\\conservation biology\\FINAL\\")
 load('AppendixS2.RData')
 
 
